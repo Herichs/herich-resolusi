@@ -2,3 +2,6 @@ RENCANA BARU
 
 -Latihan berbahasa inggris
 -Membuat proyek untuk bahan skripsi
+-Latihan Framework
+ *Laravel
+ *Codeigniter
