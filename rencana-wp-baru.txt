@@ -2,10 +2,9 @@ RENCANA BARU
 
 -Latihan berbahasa inggris
  * Belajar tentang verb
- * Belajar tentang kalimat aktif dan pasif
+ * Belajar tentang kalimat lampau
 -Membuat proyek untuk bahan skripsi
  * Menggunakan metode SPK
 -Latihan Framework
  *Laravel
  *Codeigniter
--Belajar tentang GitHub
