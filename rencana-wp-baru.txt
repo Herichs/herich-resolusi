@@ -1,7 +1,9 @@
 RENCANA BARU
 
 -Latihan berbahasa inggris
+ * Belajar tentang verb
 -Membuat proyek untuk bahan skripsi
+ * Menggunakan metode SPK
 -Latihan Framework
  *Laravel
  *Codeigniter
