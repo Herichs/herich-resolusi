@@ -2,6 +2,7 @@ RENCANA BARU
 
 -Latihan berbahasa inggris
  * Belajar tentang verb
+ * Belajar tentang kalimat aktif dan pasif
 -Membuat proyek untuk bahan skripsi
  * Menggunakan metode SPK
 -Latihan Framework
