@@ -1,8 +1,9 @@
 RENCANA BARU
 
 -Latihan berbahasa inggris
+ * Belajar tentang verb
+ * Belajar tentang kalimat lampau
 -Membuat proyek untuk bahan skripsi
 -Latihan Framework
  *Laravel
  *Codeigniter
--Belajar tentang GitHub
