@@ -7,4 +7,3 @@ RENCANA BARU
  * Menggunakan metode SPK
 -Latihan Framework
  *Laravel
- *Codeigniter
