@@ -4,6 +4,7 @@ RENCANA BARU
  * Belajar tentang verb
  * Belajar tentang kalimat lampau
 -Membuat proyek untuk bahan skripsi
+ * Menggunakan metode SPK
 -Latihan Framework
  *Laravel
  *Codeigniter
